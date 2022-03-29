@@ -1,0 +1,62 @@
+// .formD {
+//   text-align: center;
+//   background-color: aqua;
+//   width: 100%;
+//   .heading {
+//     text-align: center;
+//     text-decoration: underline;
+
+//     .inputType {
+//       padding: 12px 20px 12px 12px;
+//       margin: 8px 0;
+//       border-radius: 4px;
+//       box-sizing: border-box;
+//       .label {
+//         padding: 12px 20px;
+
+//         .submit {
+//           color: blue;
+//           .clear {
+//           }
+//         }
+//       }
+//     }
+//   }
+// }
+// ===============================================
+// ===============================================
+
+.formI {
+  padding: 50px 50px 25px 250px;
+  align: center;
+  background-color: #1d102b;
+  width: 50%;
+  .loginForm {
+    text-align: left;
+    .inputType {
+      opacity: 50%;
+      border-radius: 4px;
+      padding: 12px 20px;
+      margin: 2px;
+      border-color: aqua;
+      background-color: rgb(129, 127, 255);
+    }
+    .password {
+      color: white;
+      text-align: center;
+    }
+    .submit {
+      color: black;
+      background-color: aqua;
+      font-size: large;
+    }
+  }
+}
+.appFooter {
+  .pageFooter {
+    cursor: pointer;
+  }
+}
+.mainForm {
+  width: 100%;
+}
